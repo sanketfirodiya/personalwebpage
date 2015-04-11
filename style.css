@@ -10,10 +10,14 @@ body {
   background: white;
 }
 
-.email{
-  margin-top: 30px;
+#profilepic{
+  margin-bottom: 60px;
+}
+
+.link{
+  margin-top: 10px;
   color: #aaa;
-  font-size: 12px;
+  font-size: 14px;
   font-family: "Calibri", Helvetica, Arial, sans-serif;
 }
 
@@ -53,6 +57,11 @@ h2 {
 
 h2 a {
   color: #999;
+}
+
+p a {
+  text-decoration: none; 
+  border-bottom:1px dotted;
 }
 
 section {
