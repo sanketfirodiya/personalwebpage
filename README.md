@@ -1,2 +1,2 @@
-# personalwebpage
+# Personal web page
 A simple web page for my personal domain at [sanket.firodiya.com](sanket.firodiya.com)
